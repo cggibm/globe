@@ -1,0 +1,14 @@
+{
+  "name": "globe",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.13.1"
+  },
+  "devDependencies": {
+    "express-browserify": "~1.0.2"
+  }
+}
